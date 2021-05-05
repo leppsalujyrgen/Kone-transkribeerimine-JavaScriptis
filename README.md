@@ -9,7 +9,7 @@ Kood on kommenteeritud ja sisaldab vaid transkribeerimiseks vajalikku, mis teeb 
 töö mõistmise lihtsaks. 
 
 Rakendus kasutab töötamiseks [dictate.js](https://github.com/Kaljurand/dictate.js) teeki. Teeki pole modifitseeritud.
-Seega peaks kõik vastama Apache 2.0 litsentsi nõuetele. Lisainfo ,,LICENSE" failis.
+Seega peaks kõik vastama BSD litsentsi nõuetele. Lisainfo ,,LICENSE" failis.
 
 
 Näidisrakenduse proovimine
